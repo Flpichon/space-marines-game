@@ -1,0 +1,150 @@
+{ "frames": {
+   "space_marine_moving_0": {
+    "frame": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_1": {
+    "frame": { "x": 640, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_2": {
+    "frame": { "x": 1280, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_3": {
+    "frame": { "x": 1920, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_4": {
+    "frame": { "x": 2560, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_5": {
+    "frame": { "x": 3200, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_6": {
+    "frame": { "x": 3840, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_7": {
+    "frame": { "x": 4480, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_8": {
+    "frame": { "x": 5120, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_9": {
+    "frame": { "x": 5760, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_10": {
+    "frame": { "x": 6400, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_11": {
+    "frame": { "x": 7040, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_12": {
+    "frame": { "x": 7680, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_13": {
+    "frame": { "x": 8320, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_14": {
+    "frame": { "x": 8960, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   },
+   "space_marine_moving_15": {
+    "frame": { "x": 9600, "y": 0, "w": 640, "h": 640 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 640 },
+    "sourceSize": { "w": 640, "h": 640 },
+    "duration": 100
+   }
+ },
+ "animations": {
+	"move": ["space_marine_moving_0", "space_marine_moving_1", "space_marine_moving_2", "space_marine_moving_3", "space_marine_moving_4", "space_marine_moving_5", "space_marine_moving_6", "space_marine_moving_7", "space_marine_moving_8", "space_marine_moving_9", "space_marine_moving_10", "space_marine_moving_11"],
+  "stand": ["space_marine_moving_12", "space_marine_moving_13", "space_marine_moving_14", "space_marine_moving_15"]
+},
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.34.1-x64",
+  "image": "space_marine_actions.png",
+  "format": "RGBA8888",
+  "size": { "w": 10240, "h": 640 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
